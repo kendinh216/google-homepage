@@ -2,6 +2,8 @@
 
 Projec Title: Simple recreation of Google's homepage
 
+View Project here: https://kendinh216.github.io/google-homepage/
+
 About Project:
 
 This is a simle recreation of Google's homepage without the functionality of searching as of Nov 7 2019. 
